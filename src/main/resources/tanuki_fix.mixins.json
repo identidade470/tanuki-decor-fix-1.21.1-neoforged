@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "net.identidade.tanuki_fix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "ISeatProviderMixin"
+  ]
+}
